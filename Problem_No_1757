@@ -1,6 +1,6 @@
 Problem = Recyclable and Low fat products.
 
-code:-
+code :-
 SELECT product_id
 FROM Products
 WHERE low_fats = "Y" AND recyclable = "Y";
